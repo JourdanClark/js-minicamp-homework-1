@@ -1,0 +1,14 @@
+Variables
+	Variables are items stored in memory referenced with custom names and can be accessed globally or locally depending on the scope and language.
+	
+Strings
+	A String is an array of characters.
+
+Functions
+	A function is a block of code that can be referenced somewhere in the program other than where it is written. They can receive arguments, variables passed in based on a template defined by the functions parameter, and they can return variables.
+
+if Statements
+	An if statement is a tool used to check if a condition is true or false before executing the code contained in the block if the condition is true.
+
+Boolean Values
+	A Boolean value is used to represent True and False, on and off, 1 and 0.
